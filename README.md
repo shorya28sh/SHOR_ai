@@ -1,2 +1,5 @@
 # SHOR_ai
-html website page of SHOR_ai
+html website page of which can try to solve your qurey .....
+A qurey of code ,question or other
+you can make photos and videos too ..............
+SHOR_ai
